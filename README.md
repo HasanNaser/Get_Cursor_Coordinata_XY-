@@ -5,3 +5,7 @@ Get x,y of cursor coordinates on your screen
 
 
 <img src="example.gif"  />
+
+
+
+demo :
